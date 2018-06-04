@@ -1325,7 +1325,7 @@
  *            https://github.com/olikraus/U8glib_Arduino
  */
 //#define ULTRA_LCD   // Character based
-#define DOGLCD      // Full graphics display
+//#define DOGLCD      // Full graphics display
 
 /**
  * SD CARD
@@ -1645,6 +1645,11 @@
 // http://github.com/android444/Silvergate
 //
 //#define SILVER_GATE_GLCD_CONTROLLER
+
+//RPO FIX FOR TRONXY MELZI BOARD LCD
+#define ST7920_DELAY_1 DELAY_0_NOP
+#define ST7920_DELAY_2 DELAY_1_NOP
+#define ST7920_DELAY_3 DELAY_2_NOP
 
 //=============================================================================
 //=============================== Extra Features ==============================
