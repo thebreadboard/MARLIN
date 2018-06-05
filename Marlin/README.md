@@ -8,3 +8,10 @@ to add a library with arduino IDE, goto "Sketch". "Include Libraries", "Library 
 If you get other missing Libraries when you compile (Depends on your build and platform), just search in the same way for that library and install it too. I beleive PlatformIO does all this automatically for you but if I find out otherwise I will let you know.
 
 Some boards can be updated through the standard USB port (Tevo BlackWidow and MCmaker7 for instance), others need an ISP programmer like the one I use (Pololu PGM03A) or any other supported by the IDE your using
+
+For various upgrade videos check out my YouTube channel here
+https://www.youtube.com/playlist?list=PL_atu5RtEPi4OlCOLWB23PEISdb7vh7P0
+or specifically upgrades to Marlin 1.1.8 here:- https://www.youtube.com/user/TheBreadboardca/search?view_as=subscriber&query=Marlin+1.1.8
+
+Feel free to email me regarding reviews, corrections or help 
+peter@thebreadboard.ca
