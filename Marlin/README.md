@@ -13,5 +13,7 @@ For various upgrade videos check out my YouTube channel here
 https://www.youtube.com/playlist?list=PL_atu5RtEPi4OlCOLWB23PEISdb7vh7P0
 or specifically upgrades to Marlin 1.1.8 here:- https://www.youtube.com/user/TheBreadboardca/search?view_as=subscriber&query=Marlin+1.1.8
 
+For all my videos, look here https://www.youtube.com/TheBreadboardca
+
 Feel free to email me regarding reviews, corrections or help 
 peter@thebreadboard.ca
